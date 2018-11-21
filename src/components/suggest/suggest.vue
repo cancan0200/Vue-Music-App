@@ -85,7 +85,7 @@ export default {
         }
       });
     },
-    // 扩展下拉刷新
+    // 扩展下拉刷新 添加的内容，哈哈哈哈
     dropDownRefresh () {
       if (!this.hasMore) {
         return;
